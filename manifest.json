@@ -1,0 +1,9 @@
+{
+  "name": "FOAJ App",
+  "short_name": "FOAJ",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": []
+}
